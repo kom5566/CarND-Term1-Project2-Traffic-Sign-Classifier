@@ -1,0 +1,2 @@
+model_checkpoint_path: "TrafSignClass"
+all_model_checkpoint_paths: "TrafSignClass"
